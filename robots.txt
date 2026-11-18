@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://atelierforconimoto.fr/sitemap.xml
